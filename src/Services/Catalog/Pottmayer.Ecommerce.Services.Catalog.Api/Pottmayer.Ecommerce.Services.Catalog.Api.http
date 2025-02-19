@@ -1,0 +1,6 @@
+@Pottmayer.Ecommerce.Services.Catalog.Api_HostAddress = http://localhost:5163
+
+GET {{Pottmayer.Ecommerce.Services.Catalog.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
