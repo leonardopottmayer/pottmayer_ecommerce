@@ -6,4 +6,14 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="14.0.0" />
+    <PackageReference Include="Tars.Contracts" Version="1.0.0" />
+    <PackageReference Include="Tars.Core" Version="1.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\Shared\Pottmayer.Ecommerce.Shared.Core.Domain\Pottmayer.Ecommerce.Shared.Core.Domain.csproj" />
+  </ItemGroup>
+
 </Project>

@@ -6,4 +6,10 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Autofac" Version="8.2.0" />
+    <PackageReference Include="Tars.Adapter.UserProvider" Version="1.0.0" />
+    <PackageReference Include="Tars.Contracts" Version="1.0.0" />
+  </ItemGroup>
+
 </Project>

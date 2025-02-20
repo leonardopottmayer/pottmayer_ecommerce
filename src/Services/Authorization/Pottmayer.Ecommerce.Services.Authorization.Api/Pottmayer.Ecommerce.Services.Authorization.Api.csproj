@@ -10,8 +10,19 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="Autofac.Extensions.DependencyInjection" Version="10.0.0" />
     <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.20.1" />
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Pottmayer.Ecommerce.Services.Authorization.Adapter.Authorization\Pottmayer.Ecommerce.Services.Authorization.Adapter.Authorization.csproj" />
+    <ProjectReference Include="..\Pottmayer.Ecommerce.Services.Authorization.Adapter.Cache\Pottmayer.Ecommerce.Services.Authorization.Adapter.Cache.csproj" />
+    <ProjectReference Include="..\Pottmayer.Ecommerce.Services.Authorization.Adapter.Data\Pottmayer.Ecommerce.Services.Authorization.Adapter.Data.csproj" />
+    <ProjectReference Include="..\Pottmayer.Ecommerce.Services.Authorization.Adapter.Rest\Pottmayer.Ecommerce.Services.Authorization.Adapter.Rest.csproj" />
+    <ProjectReference Include="..\Pottmayer.Ecommerce.Services.Authorization.Adapter.UserProvider\Pottmayer.Ecommerce.Services.Authorization.Adapter.UserProvider.csproj" />
+    <ProjectReference Include="..\Pottmayer.Ecommerce.Services.Authorization.Core.Domain\Pottmayer.Ecommerce.Services.Authorization.Core.Domain.csproj" />
+    <ProjectReference Include="..\Pottmayer.Ecommerce.Services.Authorization.Core.Logic\Pottmayer.Ecommerce.Services.Authorization.Core.Logic.csproj" />
   </ItemGroup>
 
 </Project>

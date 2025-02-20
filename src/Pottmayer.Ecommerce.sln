@@ -9,37 +9,37 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Authorization", "Authorizat
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pottmayer.Ecommerce.Services.Authorization.Api", "Services\Authorization\Pottmayer.Ecommerce.Services.Authorization.Api\Pottmayer.Ecommerce.Services.Authorization.Api.csproj", "{1D9EFC17-D114-4CD3-A793-10D4939C8DE0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pottmayer.Ecommerce.Services.Authorization.Core.Domain", "Services\Authorization\Pottmayer.Ecommerce.Services.Authorization.Core.Domain\Pottmayer.Ecommerce.Services.Authorization.Core.Domain.csproj", "{24EB1200-5DBD-4380-B958-775D8D72A372}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pottmayer.Ecommerce.Services.Authorization.Core.Domain", "Services\Authorization\Pottmayer.Ecommerce.Services.Authorization.Core.Domain\Pottmayer.Ecommerce.Services.Authorization.Core.Domain.csproj", "{24EB1200-5DBD-4380-B958-775D8D72A372}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pottmayer.Ecommerce.Services.Authorization.Core.Logic", "Services\Authorization\Pottmayer.Ecommerce.Services.Authorization.Core.Logic\Pottmayer.Ecommerce.Services.Authorization.Core.Logic.csproj", "{2931E286-9C0B-43E7-8842-D4A2A3E39854}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pottmayer.Ecommerce.Services.Authorization.Core.Logic", "Services\Authorization\Pottmayer.Ecommerce.Services.Authorization.Core.Logic\Pottmayer.Ecommerce.Services.Authorization.Core.Logic.csproj", "{2931E286-9C0B-43E7-8842-D4A2A3E39854}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pottmayer.Ecommerce.Services.Authorization.Adapter.UserProvider", "Services\Authorization\Pottmayer.Ecommerce.Services.Authorization.Adapter.UserProvider\Pottmayer.Ecommerce.Services.Authorization.Adapter.UserProvider.csproj", "{908CEC57-BA71-46CC-A587-44F1E914E3FC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pottmayer.Ecommerce.Services.Authorization.Adapter.UserProvider", "Services\Authorization\Pottmayer.Ecommerce.Services.Authorization.Adapter.UserProvider\Pottmayer.Ecommerce.Services.Authorization.Adapter.UserProvider.csproj", "{908CEC57-BA71-46CC-A587-44F1E914E3FC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pottmayer.Ecommerce.Services.Authorization.Adapter.Rest", "Services\Authorization\Pottmayer.Ecommerce.Services.Authorization.Adapter.Rest\Pottmayer.Ecommerce.Services.Authorization.Adapter.Rest.csproj", "{ECBE7401-6A38-4048-87E0-659BEB8A5CF9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pottmayer.Ecommerce.Services.Authorization.Adapter.Rest", "Services\Authorization\Pottmayer.Ecommerce.Services.Authorization.Adapter.Rest\Pottmayer.Ecommerce.Services.Authorization.Adapter.Rest.csproj", "{ECBE7401-6A38-4048-87E0-659BEB8A5CF9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pottmayer.Ecommerce.Services.Authorization.Adapter.Data", "Services\Authorization\Pottmayer.Ecommerce.Services.Authorization.Adapter.Data\Pottmayer.Ecommerce.Services.Authorization.Adapter.Data.csproj", "{4A8F74A4-14AB-42E9-94FE-37946A667ADD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pottmayer.Ecommerce.Services.Authorization.Adapter.Data", "Services\Authorization\Pottmayer.Ecommerce.Services.Authorization.Adapter.Data\Pottmayer.Ecommerce.Services.Authorization.Adapter.Data.csproj", "{4A8F74A4-14AB-42E9-94FE-37946A667ADD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pottmayer.Ecommerce.Services.Authorization.Adapter.Cache", "Services\Authorization\Pottmayer.Ecommerce.Services.Authorization.Adapter.Cache\Pottmayer.Ecommerce.Services.Authorization.Adapter.Cache.csproj", "{8A1EBD3E-E67D-4555-A531-4F38C85CE892}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pottmayer.Ecommerce.Services.Authorization.Adapter.Cache", "Services\Authorization\Pottmayer.Ecommerce.Services.Authorization.Adapter.Cache\Pottmayer.Ecommerce.Services.Authorization.Adapter.Cache.csproj", "{8A1EBD3E-E67D-4555-A531-4F38C85CE892}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pottmayer.Ecommerce.Services.Authorization.Adapter.Authorization", "Services\Authorization\Pottmayer.Ecommerce.Services.Authorization.Adapter.Authorization\Pottmayer.Ecommerce.Services.Authorization.Adapter.Authorization.csproj", "{E453A0B3-F85E-468C-A60C-719234428466}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pottmayer.Ecommerce.Services.Authorization.Adapter.Authorization", "Services\Authorization\Pottmayer.Ecommerce.Services.Authorization.Adapter.Authorization\Pottmayer.Ecommerce.Services.Authorization.Adapter.Authorization.csproj", "{E453A0B3-F85E-468C-A60C-719234428466}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Catalog", "Catalog", "{20AE6B45-B8CF-4486-B1EF-B9C341D8867C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pottmayer.Ecommerce.Services.Catalog.Api", "Services\Catalog\Pottmayer.Ecommerce.Services.Catalog.Api\Pottmayer.Ecommerce.Services.Catalog.Api.csproj", "{BC181309-7159-4329-8E46-35845C5443DF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pottmayer.Ecommerce.Services.Catalog.Api", "Services\Catalog\Pottmayer.Ecommerce.Services.Catalog.Api\Pottmayer.Ecommerce.Services.Catalog.Api.csproj", "{BC181309-7159-4329-8E46-35845C5443DF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pottmayer.Ecommerce.Services.Catalog.Core.Domain", "Services\Catalog\Pottmayer.Ecommerce.Services.Catalog.Core.Domain\Pottmayer.Ecommerce.Services.Catalog.Core.Domain.csproj", "{E960BBF6-B7B6-400E-AD66-D9159A4F9158}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pottmayer.Ecommerce.Services.Catalog.Core.Domain", "Services\Catalog\Pottmayer.Ecommerce.Services.Catalog.Core.Domain\Pottmayer.Ecommerce.Services.Catalog.Core.Domain.csproj", "{E960BBF6-B7B6-400E-AD66-D9159A4F9158}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pottmayer.Ecommerce.Services.Catalog.Core.Logic", "Services\Catalog\Pottmayer.Ecommerce.Services.Catalog.Core.Logic\Pottmayer.Ecommerce.Services.Catalog.Core.Logic.csproj", "{25B558D9-1B3E-4FA5-9A9A-2E69A24F1342}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pottmayer.Ecommerce.Services.Catalog.Core.Logic", "Services\Catalog\Pottmayer.Ecommerce.Services.Catalog.Core.Logic\Pottmayer.Ecommerce.Services.Catalog.Core.Logic.csproj", "{25B558D9-1B3E-4FA5-9A9A-2E69A24F1342}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pottmayer.Ecommerce.Services.Catalog.Adapter.UserProvider", "Services\Catalog\Pottmayer.Ecommerce.Services.Catalog.Adapter.UserProvider\Pottmayer.Ecommerce.Services.Catalog.Adapter.UserProvider.csproj", "{83DD5BD3-8A8E-4035-BA6B-729123F35CA9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pottmayer.Ecommerce.Services.Catalog.Adapter.UserProvider", "Services\Catalog\Pottmayer.Ecommerce.Services.Catalog.Adapter.UserProvider\Pottmayer.Ecommerce.Services.Catalog.Adapter.UserProvider.csproj", "{83DD5BD3-8A8E-4035-BA6B-729123F35CA9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pottmayer.Ecommerce.Services.Catalog.Adapter.Rest", "Services\Catalog\Pottmayer.Ecommerce.Services.Catalog.Adapter.Rest\Pottmayer.Ecommerce.Services.Catalog.Adapter.Rest.csproj", "{5D844BE3-C10C-442E-A299-AAE55A5D5E77}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pottmayer.Ecommerce.Services.Catalog.Adapter.Rest", "Services\Catalog\Pottmayer.Ecommerce.Services.Catalog.Adapter.Rest\Pottmayer.Ecommerce.Services.Catalog.Adapter.Rest.csproj", "{5D844BE3-C10C-442E-A299-AAE55A5D5E77}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pottmayer.Ecommerce.Services.Catalog.Adapter.Data", "Services\Catalog\Pottmayer.Ecommerce.Services.Catalog.Adapter.Data\Pottmayer.Ecommerce.Services.Catalog.Adapter.Data.csproj", "{437A34A5-354F-4931-AD68-D8935CF95DD0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pottmayer.Ecommerce.Services.Catalog.Adapter.Data", "Services\Catalog\Pottmayer.Ecommerce.Services.Catalog.Adapter.Data\Pottmayer.Ecommerce.Services.Catalog.Adapter.Data.csproj", "{437A34A5-354F-4931-AD68-D8935CF95DD0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pottmayer.Ecommerce.Services.Catalog.Adapter.Cache", "Services\Catalog\Pottmayer.Ecommerce.Services.Catalog.Adapter.Cache\Pottmayer.Ecommerce.Services.Catalog.Adapter.Cache.csproj", "{E6C37729-F117-49B3-95B5-7FA1A8A696E1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pottmayer.Ecommerce.Services.Catalog.Adapter.Cache", "Services\Catalog\Pottmayer.Ecommerce.Services.Catalog.Adapter.Cache\Pottmayer.Ecommerce.Services.Catalog.Adapter.Cache.csproj", "{E6C37729-F117-49B3-95B5-7FA1A8A696E1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pottmayer.Ecommerce.Services.Catalog.Adapter.Authorization", "Services\Catalog\Pottmayer.Ecommerce.Services.Catalog.Adapter.Authorization\Pottmayer.Ecommerce.Services.Catalog.Adapter.Authorization.csproj", "{6FDEFC52-3673-4ECE-920B-94ACC8EA0501}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pottmayer.Ecommerce.Services.Catalog.Adapter.Authorization", "Services\Catalog\Pottmayer.Ecommerce.Services.Catalog.Adapter.Authorization\Pottmayer.Ecommerce.Services.Catalog.Adapter.Authorization.csproj", "{6FDEFC52-3673-4ECE-920B-94ACC8EA0501}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Cart", "Cart", "{519FD909-044F-4DAC-85F4-42BF7DD20D94}"
 EndProject
@@ -47,53 +47,57 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Discount", "Discount", "{61
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Ordering", "Ordering", "{C69F5318-4D06-47E1-BAE8-951C909CA010}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pottmayer.Ecommerce.Services.Cart.Api", "Services\Cart\Pottmayer.Ecommerce.Services.Cart.Api\Pottmayer.Ecommerce.Services.Cart.Api.csproj", "{8064B1C2-84C7-42FE-834D-198C38DC7C35}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pottmayer.Ecommerce.Services.Cart.Api", "Services\Cart\Pottmayer.Ecommerce.Services.Cart.Api\Pottmayer.Ecommerce.Services.Cart.Api.csproj", "{8064B1C2-84C7-42FE-834D-198C38DC7C35}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pottmayer.Ecommerce.Services.Cart.Core.Domain", "Services\Cart\Pottmayer.Ecommerce.Services.Cart.Core.Domain\Pottmayer.Ecommerce.Services.Cart.Core.Domain.csproj", "{E5F7574A-C579-473D-A0D6-2DCBDFDA0D25}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pottmayer.Ecommerce.Services.Cart.Core.Domain", "Services\Cart\Pottmayer.Ecommerce.Services.Cart.Core.Domain\Pottmayer.Ecommerce.Services.Cart.Core.Domain.csproj", "{E5F7574A-C579-473D-A0D6-2DCBDFDA0D25}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pottmayer.Ecommerce.Services.Cart.Core.Logic", "Services\Cart\Pottmayer.Ecommerce.Services.Cart.Core.Logic\Pottmayer.Ecommerce.Services.Cart.Core.Logic.csproj", "{A7BD2C9E-E589-46A6-B2FB-C24768F1CEDB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pottmayer.Ecommerce.Services.Cart.Core.Logic", "Services\Cart\Pottmayer.Ecommerce.Services.Cart.Core.Logic\Pottmayer.Ecommerce.Services.Cart.Core.Logic.csproj", "{A7BD2C9E-E589-46A6-B2FB-C24768F1CEDB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pottmayer.Ecommerce.Services.Cart.Adapter.UserProvider", "Services\Cart\Pottmayer.Ecommerce.Services.Cart.Adapter.UserProvider\Pottmayer.Ecommerce.Services.Cart.Adapter.UserProvider.csproj", "{0FFC1246-62D5-407D-BAF5-0CD37EBCAB16}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pottmayer.Ecommerce.Services.Cart.Adapter.UserProvider", "Services\Cart\Pottmayer.Ecommerce.Services.Cart.Adapter.UserProvider\Pottmayer.Ecommerce.Services.Cart.Adapter.UserProvider.csproj", "{0FFC1246-62D5-407D-BAF5-0CD37EBCAB16}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pottmayer.Ecommerce.Services.Cart.Adapter.Rest", "Services\Cart\Pottmayer.Ecommerce.Services.Cart.Adapter.Rest\Pottmayer.Ecommerce.Services.Cart.Adapter.Rest.csproj", "{8076DF2A-2E55-42CB-8775-1534C1940B83}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pottmayer.Ecommerce.Services.Cart.Adapter.Rest", "Services\Cart\Pottmayer.Ecommerce.Services.Cart.Adapter.Rest\Pottmayer.Ecommerce.Services.Cart.Adapter.Rest.csproj", "{8076DF2A-2E55-42CB-8775-1534C1940B83}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pottmayer.Ecommerce.Services.Cart.Adapter.Data", "Services\Cart\Pottmayer.Ecommerce.Services.Cart.Adapter.Data\Pottmayer.Ecommerce.Services.Cart.Adapter.Data.csproj", "{926ADBE9-DD8A-4B52-8BE8-828D79A6ADAB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pottmayer.Ecommerce.Services.Cart.Adapter.Data", "Services\Cart\Pottmayer.Ecommerce.Services.Cart.Adapter.Data\Pottmayer.Ecommerce.Services.Cart.Adapter.Data.csproj", "{926ADBE9-DD8A-4B52-8BE8-828D79A6ADAB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pottmayer.Ecommerce.Services.Cart.Adapter.Cache", "Services\Cart\Pottmayer.Ecommerce.Services.Cart.Adapter.Cache\Pottmayer.Ecommerce.Services.Cart.Adapter.Cache.csproj", "{30445F12-3965-46F0-B22C-47742CAED3DA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pottmayer.Ecommerce.Services.Cart.Adapter.Cache", "Services\Cart\Pottmayer.Ecommerce.Services.Cart.Adapter.Cache\Pottmayer.Ecommerce.Services.Cart.Adapter.Cache.csproj", "{30445F12-3965-46F0-B22C-47742CAED3DA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pottmayer.Ecommerce.Services.Cart.Adapter.Authorization", "Services\Cart\Pottmayer.Ecommerce.Services.Cart.Adapter.Authorization\Pottmayer.Ecommerce.Services.Cart.Adapter.Authorization.csproj", "{1BF97477-82B3-4969-AE4D-DE87C2161B1E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pottmayer.Ecommerce.Services.Cart.Adapter.Authorization", "Services\Cart\Pottmayer.Ecommerce.Services.Cart.Adapter.Authorization\Pottmayer.Ecommerce.Services.Cart.Adapter.Authorization.csproj", "{1BF97477-82B3-4969-AE4D-DE87C2161B1E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pottmayer.Ecommerce.Services.Discount.Api", "Services\Discount\Pottmayer.Ecommerce.Services.Discount.Api\Pottmayer.Ecommerce.Services.Discount.Api.csproj", "{8629ECC1-EFA4-4D3D-8705-EAD381E3824A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pottmayer.Ecommerce.Services.Discount.Api", "Services\Discount\Pottmayer.Ecommerce.Services.Discount.Api\Pottmayer.Ecommerce.Services.Discount.Api.csproj", "{8629ECC1-EFA4-4D3D-8705-EAD381E3824A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pottmayer.Ecommerce.Services.Discount.Core.Domain", "Services\Discount\Pottmayer.Ecommerce.Services.Discount.Core.Domain\Pottmayer.Ecommerce.Services.Discount.Core.Domain.csproj", "{31829954-FA2E-451B-8BBA-06677619F627}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pottmayer.Ecommerce.Services.Discount.Core.Domain", "Services\Discount\Pottmayer.Ecommerce.Services.Discount.Core.Domain\Pottmayer.Ecommerce.Services.Discount.Core.Domain.csproj", "{31829954-FA2E-451B-8BBA-06677619F627}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pottmayer.Ecommerce.Services.Discount.Core.Logic", "Services\Discount\Pottmayer.Ecommerce.Services.Discount.Core.Logic\Pottmayer.Ecommerce.Services.Discount.Core.Logic.csproj", "{12E03B6B-C7B2-4771-BCFD-C2CB6829C9A5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pottmayer.Ecommerce.Services.Discount.Core.Logic", "Services\Discount\Pottmayer.Ecommerce.Services.Discount.Core.Logic\Pottmayer.Ecommerce.Services.Discount.Core.Logic.csproj", "{12E03B6B-C7B2-4771-BCFD-C2CB6829C9A5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pottmayer.Ecommerce.Services.Discount.Adapter.UserProvider", "Services\Discount\Pottmayer.Ecommerce.Services.Discount.Adapter.UserProvider\Pottmayer.Ecommerce.Services.Discount.Adapter.UserProvider.csproj", "{F2474E51-897C-4DA0-89E3-C380B88505B2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pottmayer.Ecommerce.Services.Discount.Adapter.UserProvider", "Services\Discount\Pottmayer.Ecommerce.Services.Discount.Adapter.UserProvider\Pottmayer.Ecommerce.Services.Discount.Adapter.UserProvider.csproj", "{F2474E51-897C-4DA0-89E3-C380B88505B2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pottmayer.Ecommerce.Services.Discount.Adapter.Rest", "Services\Discount\Pottmayer.Ecommerce.Services.Discount.Adapter.Rest\Pottmayer.Ecommerce.Services.Discount.Adapter.Rest.csproj", "{5A10F742-3B4A-4DB8-A789-51D6F79825D3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pottmayer.Ecommerce.Services.Discount.Adapter.Rest", "Services\Discount\Pottmayer.Ecommerce.Services.Discount.Adapter.Rest\Pottmayer.Ecommerce.Services.Discount.Adapter.Rest.csproj", "{5A10F742-3B4A-4DB8-A789-51D6F79825D3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pottmayer.Ecommerce.Services.Discount.Adapter.Data", "Services\Discount\Pottmayer.Ecommerce.Services.Discount.Adapter.Data\Pottmayer.Ecommerce.Services.Discount.Adapter.Data.csproj", "{4E2971A1-A0B9-4D29-A1C4-B7CED914F455}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pottmayer.Ecommerce.Services.Discount.Adapter.Data", "Services\Discount\Pottmayer.Ecommerce.Services.Discount.Adapter.Data\Pottmayer.Ecommerce.Services.Discount.Adapter.Data.csproj", "{4E2971A1-A0B9-4D29-A1C4-B7CED914F455}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pottmayer.Ecommerce.Services.Discount.Adapter.Cache", "Services\Discount\Pottmayer.Ecommerce.Services.Discount.Adapter.Cache\Pottmayer.Ecommerce.Services.Discount.Adapter.Cache.csproj", "{8E29F6F6-0DFD-451E-8514-06E5485FFD57}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pottmayer.Ecommerce.Services.Discount.Adapter.Cache", "Services\Discount\Pottmayer.Ecommerce.Services.Discount.Adapter.Cache\Pottmayer.Ecommerce.Services.Discount.Adapter.Cache.csproj", "{8E29F6F6-0DFD-451E-8514-06E5485FFD57}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pottmayer.Ecommerce.Services.Discount.Adapter.Authorization", "Services\Discount\Pottmayer.Ecommerce.Services.Discount.Adapter.Authorization\Pottmayer.Ecommerce.Services.Discount.Adapter.Authorization.csproj", "{771AF5E0-264C-44CD-AA85-29E1AA9B8EFE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pottmayer.Ecommerce.Services.Discount.Adapter.Authorization", "Services\Discount\Pottmayer.Ecommerce.Services.Discount.Adapter.Authorization\Pottmayer.Ecommerce.Services.Discount.Adapter.Authorization.csproj", "{771AF5E0-264C-44CD-AA85-29E1AA9B8EFE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pottmayer.Ecommerce.Services.Ordering.Api", "Services\Ordering\Pottmayer.Ecommerce.Services.Ordering.Api\Pottmayer.Ecommerce.Services.Ordering.Api.csproj", "{FB1DA975-21AD-40A2-A5FD-98AC41065EA0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pottmayer.Ecommerce.Services.Ordering.Api", "Services\Ordering\Pottmayer.Ecommerce.Services.Ordering.Api\Pottmayer.Ecommerce.Services.Ordering.Api.csproj", "{FB1DA975-21AD-40A2-A5FD-98AC41065EA0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pottmayer.Ecommerce.Services.Ordering.Core.Domain", "Services\Ordering\Pottmayer.Ecommerce.Services.Ordering.Core.Domain\Pottmayer.Ecommerce.Services.Ordering.Core.Domain.csproj", "{C278898F-D773-4F3F-8E5B-61A50C3DB27B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pottmayer.Ecommerce.Services.Ordering.Core.Domain", "Services\Ordering\Pottmayer.Ecommerce.Services.Ordering.Core.Domain\Pottmayer.Ecommerce.Services.Ordering.Core.Domain.csproj", "{C278898F-D773-4F3F-8E5B-61A50C3DB27B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pottmayer.Ecommerce.Services.Ordering.Core.Logic", "Services\Ordering\Pottmayer.Ecommerce.Services.Ordering.Core.Logic\Pottmayer.Ecommerce.Services.Ordering.Core.Logic.csproj", "{0ED50B08-2C13-4173-939C-E3938CFBBA0E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pottmayer.Ecommerce.Services.Ordering.Core.Logic", "Services\Ordering\Pottmayer.Ecommerce.Services.Ordering.Core.Logic\Pottmayer.Ecommerce.Services.Ordering.Core.Logic.csproj", "{0ED50B08-2C13-4173-939C-E3938CFBBA0E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pottmayer.Ecommerce.Services.Ordering.Adapter.UserProvider", "Services\Ordering\Pottmayer.Ecommerce.Services.Ordering.Adapter.UserProvider\Pottmayer.Ecommerce.Services.Ordering.Adapter.UserProvider.csproj", "{6B3F85E7-8D8A-4DA6-9A5A-D4C7B6A1205E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pottmayer.Ecommerce.Services.Ordering.Adapter.UserProvider", "Services\Ordering\Pottmayer.Ecommerce.Services.Ordering.Adapter.UserProvider\Pottmayer.Ecommerce.Services.Ordering.Adapter.UserProvider.csproj", "{6B3F85E7-8D8A-4DA6-9A5A-D4C7B6A1205E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pottmayer.Ecommerce.Services.Ordering.Adapter.Rest", "Services\Ordering\Pottmayer.Ecommerce.Services.Ordering.Adapter.Rest\Pottmayer.Ecommerce.Services.Ordering.Adapter.Rest.csproj", "{8EAF55D8-9782-4775-AA8C-FB538C4FC735}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pottmayer.Ecommerce.Services.Ordering.Adapter.Rest", "Services\Ordering\Pottmayer.Ecommerce.Services.Ordering.Adapter.Rest\Pottmayer.Ecommerce.Services.Ordering.Adapter.Rest.csproj", "{8EAF55D8-9782-4775-AA8C-FB538C4FC735}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pottmayer.Ecommerce.Services.Ordering.Adapter.Data", "Services\Ordering\Pottmayer.Ecommerce.Services.Ordering.Adapter.Data\Pottmayer.Ecommerce.Services.Ordering.Adapter.Data.csproj", "{1B88203A-219C-4C0E-8475-96F73040A99B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pottmayer.Ecommerce.Services.Ordering.Adapter.Data", "Services\Ordering\Pottmayer.Ecommerce.Services.Ordering.Adapter.Data\Pottmayer.Ecommerce.Services.Ordering.Adapter.Data.csproj", "{1B88203A-219C-4C0E-8475-96F73040A99B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pottmayer.Ecommerce.Services.Ordering.Adapter.Cache", "Services\Ordering\Pottmayer.Ecommerce.Services.Ordering.Adapter.Cache\Pottmayer.Ecommerce.Services.Ordering.Adapter.Cache.csproj", "{DA818196-AAB5-45A4-A5F3-6BC2FAA2450B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pottmayer.Ecommerce.Services.Ordering.Adapter.Cache", "Services\Ordering\Pottmayer.Ecommerce.Services.Ordering.Adapter.Cache\Pottmayer.Ecommerce.Services.Ordering.Adapter.Cache.csproj", "{DA818196-AAB5-45A4-A5F3-6BC2FAA2450B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pottmayer.Ecommerce.Services.Ordering.Adapter.Authorization", "Services\Ordering\Pottmayer.Ecommerce.Services.Ordering.Adapter.Authorization\Pottmayer.Ecommerce.Services.Ordering.Adapter.Authorization.csproj", "{F99034F6-F8A6-4DFF-AA19-D8946D1470DE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pottmayer.Ecommerce.Services.Ordering.Adapter.Authorization", "Services\Ordering\Pottmayer.Ecommerce.Services.Ordering.Adapter.Authorization\Pottmayer.Ecommerce.Services.Ordering.Adapter.Authorization.csproj", "{F99034F6-F8A6-4DFF-AA19-D8946D1470DE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Shared", "Shared", "{52D93675-E267-4B75-8D58-16ABB752F327}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pottmayer.Ecommerce.Shared.Core.Domain", "Shared\Pottmayer.Ecommerce.Shared.Core.Domain\Pottmayer.Ecommerce.Shared.Core.Domain.csproj", "{0DB535A8-5D7E-42D5-A6ED-050BDAC65CFE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -261,6 +265,10 @@ Global
 		{F99034F6-F8A6-4DFF-AA19-D8946D1470DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F99034F6-F8A6-4DFF-AA19-D8946D1470DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F99034F6-F8A6-4DFF-AA19-D8946D1470DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DB535A8-5D7E-42D5-A6ED-050BDAC65CFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DB535A8-5D7E-42D5-A6ED-050BDAC65CFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DB535A8-5D7E-42D5-A6ED-050BDAC65CFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DB535A8-5D7E-42D5-A6ED-050BDAC65CFE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -311,6 +319,7 @@ Global
 		{1B88203A-219C-4C0E-8475-96F73040A99B} = {C69F5318-4D06-47E1-BAE8-951C909CA010}
 		{DA818196-AAB5-45A4-A5F3-6BC2FAA2450B} = {C69F5318-4D06-47E1-BAE8-951C909CA010}
 		{F99034F6-F8A6-4DFF-AA19-D8946D1470DE} = {C69F5318-4D06-47E1-BAE8-951C909CA010}
+		{0DB535A8-5D7E-42D5-A6ED-050BDAC65CFE} = {52D93675-E267-4B75-8D58-16ABB752F327}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {1D21F4F3-BA9B-4E80-A358-6F64213F4722}

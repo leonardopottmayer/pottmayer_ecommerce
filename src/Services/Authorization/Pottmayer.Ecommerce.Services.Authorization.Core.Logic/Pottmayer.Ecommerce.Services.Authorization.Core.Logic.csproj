@@ -6,4 +6,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Pottmayer.Ecommerce.Services.Authorization.Adapter.Data\Pottmayer.Ecommerce.Services.Authorization.Adapter.Data.csproj" />
+    <ProjectReference Include="..\Pottmayer.Ecommerce.Services.Authorization.Core.Domain\Pottmayer.Ecommerce.Services.Authorization.Core.Domain.csproj" />
+  </ItemGroup>
+
 </Project>
